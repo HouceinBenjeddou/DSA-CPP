@@ -40,3 +40,14 @@ using namespace std;
             towerOfHanoi(N, 'A', 'C', 'B');
         return 0;
     }
+
+//output
+/*
+Move Disk 1 from Peg A to peg C
+Move disk 2 from peg A to peg B
+Move Disk 1 from Peg C to peg B
+Move disk 3 from peg A to peg C
+Move Disk 1 from Peg B to peg A
+Move disk 2 from peg B to peg C
+Move Disk 1 from Peg A to peg C
+*/
